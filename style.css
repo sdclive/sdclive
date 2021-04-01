@@ -1,0 +1,96 @@
+html {
+  background: #9B9B9B;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-family: ArialMT;
+  font-size: 14px;
+  color: #AAAAAA;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.card {
+height: 527px;
+width: 362px;
+border-radius: 5px;
+background: #FFFFFF;
+box-shadow: 0 -5px 10px 2px rgba(0,0,0,0.03);
+}
+
+header {
+left: 0;
+top: 0;
+height: 60px;
+width: 100%;
+padding-top: 10px;
+background: #FFFFFF;
+box-shadow: 0 -5px 10px 10px rgba(0,0,0,0.03);
+border-radius: 5px;
+}
+
+.card-profile{ 
+  float: left;
+  margin-left: 23px;
+}
+   
+.main-header h1 { 
+margin-left:10px;
+float: left;
+font-family: ArialMT;
+font-size: 14px;
+color: #000000;
+letter-spacing: 0;
+}
+
+.myname {
+  float: left;
+}
+
+.main-header h2 { 
+float: left;
+margin-left:10px;
+font-family: ArialMT;
+font-size: 13px;
+color: #AAAAAA;
+letter-spacing: 0;
+}
+
+.dot{ 
+  float: right;
+  margin-right: 23px;
+}
+
+.pic{
+  width: 100%;
+  }
+
+.bodytext{
+  margin-top:0px;
+  margin-left:4px;
+  margin-right:4px; 
+}
+
+
+.icon {
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.soc{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+}
+.socl{
+  margin-left: 4px;
+}
+.socr{
+  margin-right: 4px;
+}
+
+.footer {
+margin-left: 4px;
+}
